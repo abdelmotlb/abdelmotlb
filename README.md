@@ -1,5 +1,7 @@
+<!-- header -->
 <h1 align="center" font-size="30px">Hi 👋, I'm Abdelrahman</h1>
 
+<!-- status -->
 <p align="center" font-size="25px">
   <strong>
     Student At Faculty of Engineering </br>
@@ -8,12 +10,14 @@
   </strong>
 </p>
 
+<!-- about me -->
 <div align="center" font-size="25px">
     <h2> 👨🏼‍💻 About Me</h2>
     <p color="blue">Seeking a dynamic role in software engineering field where technical skills can be utilized and a commitment to
       creating innovative solutions. Aiming to work in a collaborative environment where I can continuously learn and grow.</p>
 </div>
 
+<!-- Toolkit -->
 <div align="center" font-size="25px">
     <h2> 💻 Toolkit </h2>
         <h3 align="left">Programming Languages:</h3>
@@ -68,8 +72,9 @@
         </p>
 </div>
 
+<!-- Statistics -->
 <div align="center" font-size="25px">
-    <h2> Statistics </h2>
+    <h2> 📊 Statistics </h2>
     <p>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelmotlb&hide=stars&count_private=true&show_icons=true&theme=dracula" />
     </p> </br>
@@ -81,9 +86,13 @@
     </p> </br>
 </div>
 
+<!-- contact me -->
 <div align="center" font-size="25px">
       <h2> How to connect me </h2>
+      <!-- linkedin -->
       <a href="https://linkedin.com/in/abdelmotlb10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmotlb" height="40" width="40" /></a> 
-      <a href="mailto:abdelmotlb10@gmail.com" target="blank"><img align="center" src="https://drive.google.com/file/d/1zXgJ1aGQL3f4KGjzcj6dYuceptjmeSyd/view?usp=drive_link" alt="abdelmotlb" height="40" width="40" /> 
+      &nbsp; &nbsp; &nbsp;
+      <!-- gmail -->
+      <a href="mailto:abdelmotlb10@gmail.com" target="blank"><img align="center" src="https://github.com/abdelmotlb/abdelmotlb/blob/main/assets/gmail.svg" alt="abdelmotlb" height="45" width="45" /> 
 </a>
 </div>
