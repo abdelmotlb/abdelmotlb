@@ -1,4 +1,4 @@
-<h1 align="center" font-size="30px">Hi 👋, I'm Abderahman</h1>
+<h1 align="center" font-size="30px">Hi 👋, I'm Abdelrahman</h1>
 
 <p align="center" font-size="25px">
   <strong>
@@ -79,5 +79,11 @@
     <p>
       <img align="center" src="https://streak-stats.demolab.com/?user=abdelmotlb" />
     </p> </br>
+</div>
 
+<div align="center" font-size="25px">
+      <h2> How to connect me </h2>
+      <a href="https://linkedin.com/in/abdelmotlb10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmotlb" height="40" width="40" /></a> 
+      <a href="mailto:abdelmotlb10@gmail.com" target="blank"><img align="center" src="https://drive.google.com/file/d/1zXgJ1aGQL3f4KGjzcj6dYuceptjmeSyd/view?usp=drive_link" alt="abdelmotlb" height="40" width="40" /> 
+</a>
 </div>
